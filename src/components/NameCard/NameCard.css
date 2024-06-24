@@ -1,0 +1,16 @@
+.result-name-card:hover{
+    background:rgb(229, 210, 178) ;
+
+}
+.result-name-card{
+    color: black ;
+    background:rgb(224, 197, 150) ;
+    margin: 10px 15px;
+    min-width: 75px;
+    padding: 10px 20px;
+    border-radius: 10px;
+    transition : background 0.34s;
+}
+.card-link{
+    text-decoration: none;
+}
